@@ -1,0 +1,2 @@
+Index: 89; Response Time:297.9655
+Index: 101; Response Time:330.7556

@@ -1,0 +1,5 @@
+Index: 74; Response Time:54.90094
+Index: 180; Response Time:69.33215
+Index: 15; Response Time:44.80362
+Index: 114; Response Time:50.38739
+Index: 97; Response Time:71.13712

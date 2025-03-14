@@ -1,0 +1,60 @@
+Sender:Friend1, Application:Gmail,  Content:per deal if we don't reach agreement now we have to call credits for payment wednesday, UrgencyLevel:3
+Sender:Friend1, Application:Gmail,  Content:let gary smith know today if you want him, UrgencyLevel:2
+Sender:Friend1, Application:Gmail,  Content:thanks i will look at it tonight, UrgencyLevel:2
+Sender:Friend1, Application:Gmail,  Content:thanks for taking the lead on this, UrgencyLevel:1
+Sender:Friend1, Application:Gmail,  Content:thanks again for all of your help in this effort, UrgencyLevel:1
+Sender:Friend1, Application:Gmail,  Content:if we don't get it now could be trouble, UrgencyLevel:3
+Sender:Friend1, Application:Gmail,  Content:if you need me i'm in the cafeteria for five minutes, UrgencyLevel:3
+Sender:Friend1, Application:Gmail,  Content:i guess that's it for now, UrgencyLevel:2
+Sender:Friend1, Application:Gmail,  Content:what is the shower at patsy's for, UrgencyLevel:2
+Sender:Boss, Application:Gmail,  Content:i will get georgie to call you, UrgencyLevel:3
+Sender:Boss, Application:Gmail,  Content:can you supplement the answer to the visa question now, UrgencyLevel:3
+Sender:Boss, Application:Gmail,  Content:do you have a number for steve, UrgencyLevel:3
+Sender:Boss, Application:Gmail,  Content:we're on the way , UrgencyLevel:2
+Sender:Boss, Application:Gmail,  Content:please send me an email describing the changes he is requesting, UrgencyLevel:3
+Sender:Boss, Application:Gmail,  Content:Come to my office now!, UrgencyLevel:3
+Sender:Boss, Application:Gmail,  Content:could i ask the two of you to please insure that there is a refreshed view on the legal risks relative to both our and el paso's litigation on east coast power , UrgencyLevel:3
+Sender:Friend2, Application:Gmail,  Content:do you want to go to the cafeteria for lunch, UrgencyLevel:2
+Sender:Friend2, Application:Gmail,  Content:thanks for your help in quickly setting this up, UrgencyLevel:1
+Sender:Friend2, Application:Gmail,  Content:so the language does have value, UrgencyLevel:1
+Sender:Friend2, Application:Gmail,  Content:yes i will do so , UrgencyLevel:1
+Sender:Friend2, Application:Gmail,  Content:i am going to be available in a few minutes and see you later., UrgencyLevel:3
+Sender:Friend2, Application:Gmail,  Content:please talk to avashe now, UrgencyLevel:3
+Sender:Friend2, Application:Gmail,  Content:check with vince strohmeye now, UrgencyLevel:3
+Sender:Friend2, Application:Gmail,  Content:i enjoyed our discussion very much, UrgencyLevel:1
+Sender:Friend2, Application:Gmail,  Content:please send this to shelly, UrgencyLevel:2
+Sender:Friend2, Application:Gmail,  Content:i am forwarding all the emails to her attention, UrgencyLevel:2
+Sender:Friend2, Application:Gmail,  Content:there are still some remaining issues to be sorted out, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:What are you talking about?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Does that seem right?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Any idea how much they cost?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Thanks both of you., UrgencyLevel:1
+Sender:Friend3, Application:WhatsApp,  Content:Does any one know any featuers about this version to share?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Could it be the timing?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Can I remove it?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:I NEED ONE RIGHT NOW!, UrgencyLevel:3
+Sender:Friend3, Application:WhatsApp,  Content:Unfortunately no., UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Good explanation., UrgencyLevel:1
+Sender:Friend3, Application:WhatsApp,  Content:Good luck with your searching!, UrgencyLevel:1
+Sender:Friend3, Application:WhatsApp,  Content:Which Kernel are you running?, UrgencyLevel:2
+Sender:Friend3, Application:WhatsApp,  Content:Let's keep this on topic., UrgencyLevel:2
+Sender:Group, Application:WhatsApp,  Content:What do you guys think?, UrgencyLevel:2
+Sender:Group, Application:WhatsApp,  Content:anyone know a good place to buy acyclic so I can build my own sump that I can fit under the tank without taking out the brace?, UrgencyLevel:1
+Sender:Group, Application:WhatsApp,  Content:Looks nice!, UrgencyLevel:1
+Sender:Group, Application:WhatsApp,  Content:Katie Happy new year, Anita., UrgencyLevel:1
+Sender:Group, Application:WhatsApp,  Content:Anybody use it? @You, UrgencyLevel:2
+Sender:Group, Application:WhatsApp,  Content:Does anyone know how to retrieve password stored in any of these devices?  @You, UrgencyLevel:2
+Sender:Group, Application:WhatsApp,  Content:Nice work!, UrgencyLevel:1
+Sender:Group, Application:WhatsApp,  Content:Thank you all., UrgencyLevel:1
+Sender:Group, Application:WhatsApp,  Content:Very nice., UrgencyLevel:1
+Sender:Group, Application:WhatsApp,  Content:I appreciate the help., UrgencyLevel:1
+Sender:System, Application:Amazon,  Content:Your parcel is on the way., UrgencyLevel:2
+Sender:System, Application:Amazon,  Content:Your parcel has been delivered. , UrgencyLevel:2
+Sender:System, Application:Amazon,  Content:New suggestions, UrgencyLevel:1
+Sender:System, Application:Amazon,  Content:Don¡¯t miss the discount!, UrgencyLevel:1
+Sender:System, Application:Amazon,  Content:The product you browsed last week is on discount now., UrgencyLevel:2
+Sender:Friend4, Application:Instagram,  Content:I have posted a new photo., UrgencyLevel:1
+Sender:Friend4, Application:Instagram,  Content:I reacted to your message., UrgencyLevel:1
+Sender:Friend4, Application:Instagram,  Content:I have posted a new story., UrgencyLevel:1
+Sender:OL, Application:Instagram,  Content:I have posted a new photo., UrgencyLevel:2
+Sender:OL, Application:Instagram,  Content:I have posted a new story., UrgencyLevel:2

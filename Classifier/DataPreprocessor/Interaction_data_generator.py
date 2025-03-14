@@ -51,7 +51,7 @@ def process_notification_data(notification_file, interaction_file, output_excel_
                 'Sender': sender,
                 'Application': application,
                 'Content': content,
-                'UrgencyLevel': urgency_level
+                'Urgency Level': urgency_level
             })
     
     # Create a DataFrame from the notifications
@@ -63,7 +63,7 @@ def process_notification_data(notification_file, interaction_file, output_excel_
     
     # Print some statistics
     total_notifications = len(df)
-    urgent_notifications = df['UrgencyLevel'].sum()
+    urgent_notifications = df['Urgency Level'].sum()
     
     print(f"Total notifications: {total_notifications}")
     print(f"Notifications with UrgencyLevel=1: {urgent_notifications}")
@@ -72,8 +72,10 @@ def process_notification_data(notification_file, interaction_file, output_excel_
 
 
 if __name__ == "__main__":
-    notification_file = "Data/NotificationData_1.txt"
-    interaction_file = "Data/User_1_interaction.txt"
-    output_excel_file = "NotificationData_with_UrgencyLevel.xlsx"
+    
+    user_id = input("Enter the user id: ")
+    notification_file = f"Data/NotificationData_{user_id}.txt"
+    interaction_file = f"Data/User_{user_id}_interaction.txt"
+    output_excel_file = f"Data/Interaction_data_{user_id}.xlsx"
     
     process_notification_data(notification_file, interaction_file, output_excel_file)
